@@ -1,2 +1,2 @@
 # Karaudio2
-A Simple Distance Based BGM And SFX Audio Blending Solution For Unity.
+A Simple Distance Based BGM And SFX Environmental Audio Blending Solution For Unity.

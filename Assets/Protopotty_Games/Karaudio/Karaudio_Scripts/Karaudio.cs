@@ -18,10 +18,7 @@ public class Karaudio : MonoBehaviour
 
     private bool submergeSplashIsReady = true;
     private bool resurfaceSplashIsReady = false;
-
-    private bool playerIsReadyToResurface = true;
-    private readonly bool playerIsReadyToSubmerge = true;
-
+    
     [Header("Checkpoints ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>")]
     [Space(5)]
     public GameObject atmosphere;

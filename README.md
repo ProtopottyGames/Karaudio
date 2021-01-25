@@ -1,4 +1,4 @@
 # Karaudio
-Height Based Solution For Audio Blending Between Various Environments In Elevation. (Unity3D) 
+A Simple Distance Based Audio Blending Solution For Unity.
 
 Example: https://www.youtube.com/watch?v=FHgRII0rQWw
